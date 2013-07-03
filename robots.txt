@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://tdouglas.github.io/sitemap.xml 
